@@ -8,4 +8,4 @@ with openGL functions and also a matrix initialization for the stars of the sola
 After all the initialization we continue with the main project , in which we have a file that gives us the Objects (planets to be
 rendered in the program) and also we create small little stars and one big star ( the sun ) .
 
-There is also a function to control the camera and the animation in the project called "Keyboard"
+There is also a function to control the camera and the animation in the project called "Keyboard" , and some other extra utilies like zoom on a planet or zoom in/out of where the camera is positioned.
